@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## TryLs_9z
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/Mr-WRK4Ge/TryLs_9z
+> cd TryLs_9z
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
